@@ -1,13 +1,16 @@
 {
   "name": "package-b",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo from b",
     "semantic-release": "semantic-release"
   },
-  "repository": "https://github.com/dinujubd/semantic-monorepo.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinujubd/semantic-monorepo.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

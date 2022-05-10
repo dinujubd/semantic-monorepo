@@ -9,7 +9,10 @@
     "release:a": "npm run semantic-release -w package-a",
     "release:b": "npm run semantic-release -w package-b" 
   },
-  "repository": "https://github.com/dinujubd/semantic-monorepo.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinujubd/semantic-monorepo.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
