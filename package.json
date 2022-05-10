@@ -5,7 +5,7 @@
   "scripts": {
     "test:a": "npm run test -w package-a",
     "test:b": "npm run test -w package-b",
-    "release": "npm run semantic-release ",
+    "release": "npm run semantic-release --workspaces",
     "release:a": "npm run semantic-release -w package-a",
     "release:b": "npm run semantic-release -w package-b" 
   },
