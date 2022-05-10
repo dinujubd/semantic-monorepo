@@ -1,3 +1,10 @@
+# [package-a-v1.8.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.7.1...package-a-v1.8.0) (2022-05-10)
+
+
+### Features
+
+* **sample:** only pack a ([#7](https://github.com/dinujubd/semantic-monorepo/issues/7)) ([f8fa41b](https://github.com/dinujubd/semantic-monorepo/commit/f8fa41bba4c4295a955e65ea99fe5ec53fd4efa9))
+
 # [package-a-v1.7.1](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.7.0...package-a-v1.7.1) (2022-05-10)
 
 
