@@ -1,3 +1,10 @@
+# [package-a-v1.6.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.5.0...package-a-v1.6.0) (2022-05-10)
+
+
+### Features
+
+* **noya:** noya release ([8f8c2fb](https://github.com/dinujubd/semantic-monorepo/commit/8f8c2fb683feac7f259de845e71b49aac184a2dc))
+
 # [package-a-v1.5.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.4.0...package-a-v1.5.0) (2022-05-10)
 
 
