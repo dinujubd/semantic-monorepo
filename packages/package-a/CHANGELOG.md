@@ -1,3 +1,10 @@
+# [package-a-v1.4.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.3.0...package-a-v1.4.0) (2022-05-10)
+
+
+### Features
+
+* **asdf:** skip npm ([40be11d](https://github.com/dinujubd/semantic-monorepo/commit/40be11d5b180e91cd1023458c1050087b3129382))
+
 # [package-a-v1.3.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.2.0...package-a-v1.3.0) (2022-05-10)
 
 
