@@ -1,3 +1,10 @@
+# [package-a-v1.7.1](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.7.0...package-a-v1.7.1) (2022-05-10)
+
+
+### Bug Fixes
+
+* **test:** removed test ([8dcae64](https://github.com/dinujubd/semantic-monorepo/commit/8dcae64c84ef38373f7dfcad8d53d115422aab72))
+
 # [package-a-v1.7.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.6.0...package-a-v1.7.0) (2022-05-10)
 
 
