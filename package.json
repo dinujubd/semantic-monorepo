@@ -4,7 +4,9 @@
   "description": "",
   "scripts": {
     "test:a": "npm run test -w package-a",
-    "test:b": "npm run test -w package-b"
+    "test:b": "npm run test -w package-b",
+    "release:a": "npm run semantic-release -w package-a",
+    "release:b": "npm run semantic-release -w package-b" 
   },
   "repository": {
     "type": "git",
