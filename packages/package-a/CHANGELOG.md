@@ -1,3 +1,10 @@
+# [package-a-v1.5.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.4.0...package-a-v1.5.0) (2022-05-10)
+
+
+### Features
+
+* **sdfsf:** asdfasfasf asdf ([da552aa](https://github.com/dinujubd/semantic-monorepo/commit/da552aa6df68b367d46bc6a30f94189d0fa4c264))
+
 # [package-a-v1.4.0](https://github.com/dinujubd/semantic-monorepo/compare/package-a-v1.3.0...package-a-v1.4.0) (2022-05-10)
 
 
